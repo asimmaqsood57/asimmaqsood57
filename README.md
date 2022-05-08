@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asimmaqsood57&show_icons=true&locale=en" alt="asimmaqsood57" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asimmaqsood57&" alt="asimmaqsood57" /></p>
+
+<a href="https://app.daily.dev/asimmaqsood57"><img src="https://api.daily.dev/devcards/25d59990abc14f1a9f357712c2d97251.png?r=3pk" width="400" alt="Asim Maqsood's Dev Card"/></a>
